@@ -1,4 +1,4 @@
-#summary Four quick steps to install the Repository Definition Editor...
+#summary Four quick steps to install the Repository Definition Editor
 
   # Extract the archive to the root of your ATG installation folder.
   # Start your SOLID database instance.

@@ -1,5 +1,3 @@
-#summary Four quick steps to install the Repository Definition Editor
-
   # Extract the archive to the root of your ATG installation folder.
   # Start your SOLID database instance.
   # Run the install.cmd batch file located in {{{RepDef/sql/solid}}}. This script uses SOLID's command-line tools to create the database tables necessary for the repository.
